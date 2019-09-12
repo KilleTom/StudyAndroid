@@ -33,7 +33,6 @@ class HandleDemoActivity : AppCompatActivity() {
             }.start()
         }
 
-
     }
 
 
